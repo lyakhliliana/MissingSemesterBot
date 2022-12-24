@@ -1,7 +1,7 @@
 ### BEN BOT
 
 # Команда start
-![alt text](bot_images/start/png)
+![alt text](bot_images/start.png)
 # Колбек на вопрос
 ![alt text](bot_images/question.png)
 # Команда отправки фото
